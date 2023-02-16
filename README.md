@@ -1,22 +1,13 @@
 ### Hi there 👋
 
+I'm Alejandro Ríos, im studying an ICT engineer on Tec Tijuana at 10th degree.
+- 🔭 I’m currently working as a Software developer on BajaLogics.
+- 🌱 I’m currently learning python, UWP, and AWS.
+
+
 | **Hora** |       **Lunes**       |       **Martes**      |     **Miercoles**     |       **Jueves**      |      **Viernes**      |
 |:--------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
 | 2:00 PM  |                       |                       |                       |                       |                       |
 | 3:00 PM  | Ing. del conocimiento | Ing. del conocimiento | Ing. del conocimiento | Ing. del conocimiento | Ing. del conocimiento |
 | 4:00 PM  |                       |                       |                       |                       |                       |
 
-<!--
-**Arvo-Rios14/Arvo-Rios14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

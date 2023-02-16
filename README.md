@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+| **Hora** |       **Lunes**       |       **Martes**      |     **Miercoles**     |       **Jueves**      |      **Viernes**      |
+|:--------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|:---------------------:|
+| 2:00 PM  |                       |                       |                       |                       |                       |
+| 3:00 PM  | Ing. del conocimiento | Ing. del conocimiento | Ing. del conocimiento | Ing. del conocimiento | Ing. del conocimiento |
+| 4:00 PM  |                       |                       |                       |                       |                       |
+
 <!--
 **Arvo-Rios14/Arvo-Rios14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
